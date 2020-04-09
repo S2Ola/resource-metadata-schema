@@ -19,7 +19,7 @@ prefix ejprd:          <http://www.ejprarediseases.org/metadata#>
 , dcterms:description    xsd:string         #Catalog description
 , foaf:homepage          xsd:string         #the url
 , enn:sameAs             xsd:string         #the url
-, dcterms:location       xsd:string         #the organisation
+, dcterms:location       @[Orgaisation]         #the organisation
 , rdfs:label             xsd:string         #Pattern "Value of Catalog"@en
 
 }
