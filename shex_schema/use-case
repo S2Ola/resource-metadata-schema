@@ -1,0 +1,25 @@
+# Metadata Constrains for EJP rare disease catalogs as a use case 
+
+
+#Example: 
+The RDF data about a catalog must provide some common metadata, so there is need to verify if every catalog record in the graph reports a valid metadata e.g. reports a valid catalog ID, alternativeName, description, homepage and location of the catalog, as identified by the IRI.  The ShEx schema to accomplish this has the following constrains: 
+1. Catalog:id             #to match node with IRI 
+2. Catalog:alternateName  #match with string
+3. Catalog:description    #match with string
+4. Catalog:homepage       #match with url
+5. Catalog:location       #match with string
+
+
+#The node constrain: 
+
+1. Catalog:id             xsd:string
+2. Catalog:alternateName  xsd:string
+3. Catalog:description    xsd:string
+4. Catalog:homepage       xsd:string
+5. Catalog:location       xsd:string
+
+
+
+
+
+
