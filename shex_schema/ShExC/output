@@ -1,0 +1,21 @@
+dcat:catalog1@dcat:catalog1,
+dcterms:identifier@dcterms:identifier
+
+
+OUTPUT:
+
+
+[{
+  "node": "http://www.w3.org/ns/dcat#catalog1",
+  "shape": "http://www.w3.org/ns/dcat#catalog1",
+  "status": "conformant",
+  "elapsed": 1
+},
+
+{
+  "node": "http://purl.org/dc/terms/identifier",
+  "shape": "http://purl.org/dc/terms/identifier",
+  "status": "nonconformant",
+  "elapsed": 0,
+  "reason": "validating http://purl.org/dc/terms/identifier as http://purl.org/dc/terms/identifier:\n    NodeConstraintError: expected to match <http://www.w3.org/2001/XMLSchema#string>"
+}]

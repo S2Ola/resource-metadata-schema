@@ -1,0 +1,19 @@
+prefix dcterms:       <http://purl.org/dc/terms/>
+prefix foaf:          <http://xmlns.com/foaf/0.1/>
+prefix org:           <http://www.w3.org/ns/org#>
+prefix rdf:           <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: 	        <http://www.w3.org/2000/01/rdf-schema#>
+prefix xsd:           <http://www.w3.org/2001/XMLSchema#>
+prefix shex:          <http://www.w3.org/2013/ShEx/ns#>
+prefix dcat:          <http://www.w3.org/ns/dcat#>
+prefix enn:           <http://www.w3.org/2002/07/owl#>
+prefix ejprd:         <http://www.ejprarediseases.org/metadata#>
+
+
+dcat:catalog1
+dcterms:identifier "BNDMR";
+foaf:name "Banque Nationale de Données Maladies Rares";
+dcterms:alternateName "BNDMR" ;
+dcterms:description   "The French National Registry for Rare Diseases is a national tool for epidemiology and public health purposes in the field of rare diseases (RD). The data collection is mandatory for all the Rare Disease expert centers at the national level. A minimum data set (MDS) of about 60 items is collected for all the rare disease expert centers patients. This MDS strongly inspired the Common Data Elements (CDE) promoted by the EUCERD, and later by the JRC, which will greatly facilitate interoperability." ;
+foaf:homepage         "http://www.bndmr.fr/" ;
+dcterms:location      "France"  .

@@ -1,0 +1,33 @@
+
+prefix dcterms:       <http://purl.org/dc/terms/>
+prefix foaf:          <http://xmlns.com/foaf/0.1/>
+prefix org:           <http://www.w3.org/ns/org#>
+prefix rdf:           <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: 	        <http://www.w3.org/2000/01/rdf-schema#>
+prefix xsd:           <http://www.w3.org/2001/XMLSchema#>
+prefix shex:          <http://www.w3.org/2013/ShEx/ns#>
+prefix dcat:          <http://www.w3.org/ns/dcat#>
+prefix enn:           <http://www.w3.org/2002/07/owl#>
+prefix ejprd:         <http://www.ejprarediseases.org/metadata#>
+
+# Schema for Catalog constrain
+
+
+
+
+# Node Constraint
+
+dcterms:identifier     xsd:string
+foaf:name              xsd:string
+dcterms:alternateName  xsd:string
+dcterms:description    xsd:string
+foaf:homepage          xsd:string
+dcterms:location       xsd:string
+
+
+dcat:catalog1 {
+
+# Triple Constraint (including node Constraint IRI)
+dcterms:identifier  .
+
+}

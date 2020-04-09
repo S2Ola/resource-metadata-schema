@@ -3,7 +3,7 @@
   "shapes": [
     {
       "type": "Shape",
-      "id": "https://rawgit.com/shexSpec/shex.js/master/packages/shex-webapp/doc/catalog",
+      "id": "https://www.rarediseases.org/catalog",
       "expression": {
         "type": "EachOf",
         "expressions": [
