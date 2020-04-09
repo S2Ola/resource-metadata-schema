@@ -3,7 +3,7 @@
   "shapes": [
     {
       "type": "Shape",
-      "id": "https://www.rarediseases.org/catalog",
+      "id": "https://www.rarediseases.org/metadat#catalog",
       "expression": {
         "type": "EachOf",
         "expressions": [
