@@ -1,0 +1,21 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix ns0: <http://purl.obolibrary.org/obo/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix ns1: <http://semanticscience.org/resource/> .
+
+<http://example.org/CAT01902019>
+    a dcat:Dataset ;
+    ns0:NCIT_C45674 "Biobank, Registries,Services,Documents" ;
+    prov:wasGeneratedBy "EJPRDEU" ;
+    dcat:distribution "International" ;
+    dc:spatial <ejp:location> .
+
+<ejp:location>
+    a <http://purl.org/ejp-rd/vocabulary/location> ;
+    schema:streetAddress "" ;
+    ns1:SIO_000665 "Brussels" ;
+    ns1:SIO_000664 "Germany" ;
+    ns0:NCIT_C76349 "EU" ;
+    ns0:NCIT_C45674 "international , Europe " .

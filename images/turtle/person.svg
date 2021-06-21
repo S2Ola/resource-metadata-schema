@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1013pt" height="133pt" viewBox="0.00 0.00 1013.18 132.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 128.8)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-128.8 1009.1844,-128.8 1009.1844,4 -4,4"/>
+<!-- N6 -->
+<g id="node1" class="node">
+<title>N6</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="108.3989,-36 .1999,-36 .1999,0 108.3989,0 108.3989,-36"/>
+<text text-anchor="middle" x="54.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ego@gmail.com</text>
+</g>
+<!-- N0 -->
+<g id="node2" class="node">
+<title>N0</title>
+<g id="a_node2"><a xlink:href="http://example.org/EBI09394092020" xlink:title="&lt;http://example.org/EBI09394092020&gt;">
+<ellipse fill="none" stroke="#000000" cx="524.2994" cy="-106.8" rx="164.2062" ry="18"/>
+<text text-anchor="middle" x="524.2994" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;http://example.org/EBI09394092020&gt;</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N6 -->
+<g id="edge3" class="edge">
+<title>N0-&gt;N6</title>
+<g id="a_edge3"><a xlink:href="http://purl.obolibrary.org/obo/IAO_0000429" xlink:title="ns1:IAO_0000429">
+<path fill="none" stroke="#000000" d="M370.3867,-100.3962C255.8213,-94.5581 115.2465,-84.7133 91.0904,-70.8 80.7872,-64.8656 72.6923,-54.7406 66.7501,-44.9346"/>
+<polygon fill="#000000" stroke="#000000" points="69.7956,-43.2092 61.8967,-36.1482 63.6682,-46.5939 69.7956,-43.2092"/>
+</a>
+</g>
+<g id="a_edge3-label"><a xlink:href="http://purl.obolibrary.org/obo/IAO_0000429" xlink:title="ns1:IAO_0000429">
+<text text-anchor="middle" x="143.4039" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns1:IAO_0000429</text>
+</a>
+</g>
+</g>
+<!-- N3 -->
+<g id="node3" class="node">
+<title>N3</title>
+<g id="a_node3"><a xlink:href="http://example.org/EBI09394092020" xlink:title="www.dcat.org">
+<polygon fill="#ffff00" stroke="#ffff00" points="229.1001,-36 133.4987,-36 133.4987,0 229.1001,0 229.1001,-36"/>
+<text text-anchor="middle" x="181.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">www.dcat.org</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N3 -->
+<g id="edge6" class="edge">
+<title>N0-&gt;N3</title>
+<g id="a_edge6"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C19467" xlink:title="ns1:NCIT_C19467">
+<path fill="none" stroke="#000000" d="M389.7242,-96.3724C313.8459,-89.5611 231.2198,-80.2119 215.9712,-70.8 206.2121,-64.7764 198.6403,-54.8629 193.0974,-45.243"/>
+<polygon fill="#000000" stroke="#000000" points="196.1308,-43.4904 188.3996,-36.2461 189.9258,-46.7305 196.1308,-43.4904"/>
+</a>
+</g>
+<g id="a_edge6-label"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C19467" xlink:title="ns1:NCIT_C19467">
+<text text-anchor="middle" x="269.9635" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns1:NCIT_C19467</text>
+</a>
+</g>
+</g>
+<!-- N5 -->
+<g id="node4" class="node">
+<title>N5</title>
+<g id="a_node4"><a xlink:href="http://example.org/EBI09394092020" xlink:title="+44(0)0124511234">
+<polygon fill="#ffff00" stroke="#ffff00" points="371.5154,-36 247.0834,-36 247.0834,0 371.5154,0 371.5154,-36"/>
+<text text-anchor="middle" x="309.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">+44(0)0124511234</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N5 -->
+<g id="edge4" class="edge">
+<title>N0-&gt;N5</title>
+<g id="a_edge4"><a xlink:href="http://semanticscience.org/resource/SIO_001324" xlink:title="ns0:SIO_001324">
+<path fill="none" stroke="#000000" d="M417.1336,-93.1319C384.8764,-87.4288 354.5497,-79.9678 341.4144,-70.8 332.3744,-64.4905 325.4175,-54.74 320.3279,-45.3271"/>
+<polygon fill="#000000" stroke="#000000" points="323.3871,-43.6155 315.8526,-36.1668 317.0975,-46.6882 323.3871,-43.6155"/>
+</a>
+</g>
+<g id="a_edge4-label"><a xlink:href="http://semanticscience.org/resource/SIO_001324" xlink:title="ns0:SIO_001324">
+<text text-anchor="middle" x="389.7419" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_001324</text>
+</a>
+</g>
+</g>
+<!-- N1 -->
+<g id="node5" class="node">
+<title>N1</title>
+<g id="a_node5"><a xlink:href="http://example.org/EBI09394092020" xlink:title="Research Officer">
+<polygon fill="#ffff00" stroke="#ffff00" points="501.008,-36 389.5908,-36 389.5908,0 501.008,0 501.008,-36"/>
+<text text-anchor="middle" x="445.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Research Officer</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge8" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge8"><a xlink:href="http://purl.allotrope.org/ontologies/result#AFRL_0000403" xlink:title="ns2:AFRL_0000403">
+<path fill="none" stroke="#000000" d="M465.9747,-89.8986C457.7351,-85.0339 450.331,-78.7941 445.1858,-70.8 440.5301,-63.5664 439.303,-54.5409 439.6165,-46.0094"/>
+<polygon fill="#000000" stroke="#000000" points="443.1044,-46.3046 440.6359,-36.0013 436.1404,-45.5951 443.1044,-46.3046"/>
+</a>
+</g>
+<g id="a_edge8-label"><a xlink:href="http://purl.allotrope.org/ontologies/result#AFRL_0000403" xlink:title="ns2:AFRL_0000403">
+<text text-anchor="middle" x="502.8562" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns2:AFRL_0000403</text>
+</a>
+</g>
+</g>
+<!-- N4 -->
+<g id="node6" class="node">
+<title>N4</title>
+<g id="a_node6"><a xlink:href="http://example.org/EBI09394092020" xlink:title="Elsevier Journal of Science">
+<polygon fill="#ffff00" stroke="#ffff00" points="687.5704,-36 519.0284,-36 519.0284,0 687.5704,0 687.5704,-36"/>
+<text text-anchor="middle" x="603.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Elsevier Journal of Science</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N4 -->
+<g id="edge5" class="edge">
+<title>N0-&gt;N4</title>
+<g id="a_edge5"><a xlink:href="http://semanticscience.org/resource/SIO_000087" xlink:title="ns0:SIO_000087">
+<path fill="none" stroke="#000000" d="M545.815,-88.8733C552.0261,-83.3237 558.6478,-77.0259 564.2994,-70.8 571.6527,-62.6995 578.9754,-53.2493 585.2564,-44.6009"/>
+<polygon fill="#000000" stroke="#000000" points="588.2155,-46.479 591.1527,-36.2995 582.5085,-42.4255 588.2155,-46.479"/>
+</a>
+</g>
+<g id="a_edge5-label"><a xlink:href="http://semanticscience.org/resource/SIO_000087" xlink:title="ns0:SIO_000087">
+<text text-anchor="middle" x="625.7419" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000087</text>
+</a>
+</g>
+</g>
+<!-- N8 -->
+<g id="node7" class="node">
+<title>N8</title>
+<g id="a_node7"><a xlink:href="http://xmlns.com/foaf/0.1/Person" xlink:title="foaf:Person">
+<ellipse fill="none" stroke="#000000" cx="761.2994" cy="-18" rx="55.5946" ry="18"/>
+<text text-anchor="middle" x="761.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">foaf:Person</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N8 -->
+<g id="edge1" class="edge">
+<title>N0-&gt;N8</title>
+<g id="a_edge1"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M611.6523,-91.4804C633.5396,-86.2301 656.6561,-79.4338 677.2994,-70.8 696.0299,-62.9663 715.3194,-51.1533 730.6826,-40.686"/>
+<polygon fill="#000000" stroke="#000000" points="733.0396,-43.3093 739.2406,-34.7187 729.0359,-37.5673 733.0396,-43.3093"/>
+</a>
+</g>
+<g id="a_edge1-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="712.4067" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N2 -->
+<g id="node8" class="node">
+<title>N2</title>
+<g id="a_node8"><a xlink:href="http://xmlns.com/foaf/0.1/Person" xlink:title="Mathew">
+<polygon fill="#ffff00" stroke="#ffff00" points="896.1705,-36 834.4283,-36 834.4283,0 896.1705,0 896.1705,-36"/>
+<text text-anchor="middle" x="865.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Mathew</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N2 -->
+<g id="edge7" class="edge">
+<title>N0-&gt;N2</title>
+<g id="a_edge7"><a xlink:href="http://semanticscience.org/resource/SIO_000181" xlink:title="ns0:SIO_000181">
+<path fill="none" stroke="#000000" d="M618.5736,-91.9821C650.727,-86.2446 686.7649,-79.0555 719.2994,-70.8 764.836,-59.2453 778.1553,-54.7881 824.8918,-36.4112"/>
+<polygon fill="#000000" stroke="#000000" points="826.3418,-39.6018 834.3621,-32.679 823.7752,-33.0893 826.3418,-39.6018"/>
+</a>
+</g>
+<g id="a_edge7-label"><a xlink:href="http://semanticscience.org/resource/SIO_000181" xlink:title="ns0:SIO_000181">
+<text text-anchor="middle" x="824.7419" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000181</text>
+</a>
+</g>
+</g>
+<!-- N7 -->
+<g id="node9" class="node">
+<title>N7</title>
+<g id="a_node9"><a xlink:href="http://xmlns.com/foaf/0.1/Person" xlink:title="John">
+<polygon fill="#ffff00" stroke="#ffff00" points="989.2994,-36 935.2994,-36 935.2994,0 989.2994,0 989.2994,-36"/>
+<text text-anchor="middle" x="962.2994" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">John</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N7 -->
+<g id="edge2" class="edge">
+<title>N0-&gt;N7</title>
+<g id="a_edge2"><a xlink:href="http://semanticscience.org/resource/SIO_000182" xlink:title="ns0:SIO_000182">
+<path fill="none" stroke="#000000" d="M670.066,-98.4211C749.3347,-92.5763 838.6947,-83.5239 876.2994,-70.8 895.7631,-64.2143 915.4429,-52.581 931.0557,-41.9072"/>
+<polygon fill="#000000" stroke="#000000" points="933.122,-44.7329 939.2839,-36.1142 929.0922,-39.0092 933.122,-44.7329"/>
+</a>
+</g>
+<g id="a_edge2-label"><a xlink:href="http://semanticscience.org/resource/SIO_000182" xlink:title="ns0:SIO_000182">
+<text text-anchor="middle" x="957.7419" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000182</text>
+</a>
+</g>
+</g>
+</g>
+</svg>

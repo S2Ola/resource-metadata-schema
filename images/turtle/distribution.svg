@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1263pt" height="133pt" viewBox="0.00 0.00 1263.24 132.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 128.8)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-128.8 1259.2356,-128.8 1259.2356,4 -4,4"/>
+<!-- N1 -->
+<g id="node1" class="node">
+<title>N1</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="389.46,-36 335.46,-36 335.46,0 389.46,0 389.46,-36"/>
+</g>
+<!-- N4 -->
+<g id="node2" class="node">
+<title>N4</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="900.8875,-36 816.0325,-36 816.0325,0 900.8875,0 900.8875,-36"/>
+<text text-anchor="middle" x="858.46" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">the you web</text>
+</g>
+<!-- N5 -->
+<g id="node3" class="node">
+<title>N5</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="1007.2818,-36 925.6381,-36 925.6381,0 1007.2818,0 1007.2818,-36"/>
+<text text-anchor="middle" x="966.46" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">11-09-2021</text>
+</g>
+<!-- N0 -->
+<g id="node4" class="node">
+<title>N0</title>
+<g id="a_node4"><a xlink:href="http://example.org/D78768" xlink:title="&lt;http://example.org/D78768&gt;">
+<ellipse fill="none" stroke="#000000" cx="584.46" cy="-106.8" rx="126.5986" ry="18"/>
+<text text-anchor="middle" x="584.46" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;http://example.org/D78768&gt;</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge2" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge2"><a xlink:href="http://edamontology.org/media_type" xlink:title="ns0:media_type">
+<path fill="none" stroke="#000000" d="M459.8812,-103.3709C293.9093,-98.183 19.2003,-87.1749 3.8092,-70.8 -1.3046,-65.3594 -1.2,-59.5371 3.8092,-54 25.1148,-30.4487 238.1464,-21.6116 325.4448,-18.9619"/>
+<polygon fill="#000000" stroke="#000000" points="325.5532,-22.4603 335.4464,-18.6688 325.3481,-15.4633 325.5532,-22.4603"/>
+</a>
+</g>
+<g id="a_edge2-label"><a xlink:href="http://edamontology.org/media_type" xlink:title="ns0:media_type">
+<text text-anchor="middle" x="48.7854" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:media_type</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge3" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge3"><a xlink:href="http://purl.org/dc/elements/1.1/conformsTo" xlink:title="dc11:conformsTo">
+<path fill="none" stroke="#000000" d="M462.9602,-101.5338C328.0783,-95.0834 127.6414,-83.4445 115.9312,-70.8 110.8577,-65.3218 111.0478,-59.6483 115.9312,-54 129.3969,-38.425 259.2038,-26.1039 324.8452,-20.812"/>
+<polygon fill="#000000" stroke="#000000" points="325.4875,-24.2723 335.1802,-19.9943 324.9353,-17.2941 325.4875,-24.2723"/>
+</a>
+</g>
+<g id="a_edge3-label"><a xlink:href="http://purl.org/dc/elements/1.1/conformsTo" xlink:title="dc11:conformsTo">
+<text text-anchor="middle" x="166.2244" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc11:conformsTo</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge4" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge4"><a xlink:href="http://purl.org/dc/terms/rights" xlink:title="dc:rights">
+<path fill="none" stroke="#000000" d="M462.0184,-101.9726C368.6524,-96.9956 253.5552,-87.5381 238.4684,-70.8 210.944,-40.2631 279.6165,-26.7712 325.3993,-21.3119"/>
+<polygon fill="#000000" stroke="#000000" points="325.7904,-24.7901 335.3427,-20.2072 325.0174,-17.8329 325.7904,-24.7901"/>
+</a>
+</g>
+<g id="a_edge4-label"><a xlink:href="http://purl.org/dc/terms/rights" xlink:title="dc:rights">
+<text text-anchor="middle" x="263.9558" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc:rights</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge5" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge5"><a xlink:href="http://edamontology.org/data_0968" xlink:title="ns0:data_0968">
+<path fill="none" stroke="#000000" d="M470.5825,-98.8271C400.3752,-92.7191 321.7059,-83.2289 310.805,-70.8 300.4849,-59.0334 311.7454,-46.4854 326.3552,-36.5755"/>
+<polygon fill="#000000" stroke="#000000" points="328.5627,-39.3244 335.2065,-31.0714 324.8662,-33.3799 328.5627,-39.3244"/>
+</a>
+</g>
+<g id="a_edge5-label"><a xlink:href="http://edamontology.org/data_0968" xlink:title="ns0:data_0968">
+<text text-anchor="middle" x="352.2875" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:data_0968</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge8" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge8"><a xlink:href="http://www.w3.org/ns/odrl/2/hasPolicy" xlink:title="odrl:hasPolicy">
+<path fill="none" stroke="#000000" d="M499.6403,-93.2833C465.4324,-86.8934 430.5414,-78.8994 415.5806,-70.8 403.2193,-64.1079 391.8256,-53.6526 382.7864,-43.8056"/>
+<polygon fill="#000000" stroke="#000000" points="385.2857,-41.3468 376.0684,-36.1224 380.016,-45.9544 385.2857,-41.3468"/>
+</a>
+</g>
+<g id="a_edge8-label"><a xlink:href="http://www.w3.org/ns/odrl/2/hasPolicy" xlink:title="odrl:hasPolicy">
+<text text-anchor="middle" x="456.8997" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">odrl:hasPolicy</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge10" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge10"><a xlink:href="http://www.w3.org/ns/dcat#downloadURL" xlink:title="dcat:downloadURL">
+<path fill="none" stroke="#000000" d="M550.6673,-89.347C540.3444,-83.7127 529.0741,-77.2494 519.042,-70.8 508.5195,-64.0354 507.7182,-59.4528 496.46,-54 465.5095,-39.0095 427.4065,-29.5427 399.7536,-24.1008"/>
+<polygon fill="#000000" stroke="#000000" points="400.1786,-20.6194 389.7037,-22.2091 398.8837,-27.4986 400.1786,-20.6194"/>
+</a>
+</g>
+<g id="a_edge10-label"><a xlink:href="http://www.w3.org/ns/dcat#downloadURL" xlink:title="dcat:downloadURL">
+<text text-anchor="middle" x="574.669" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dcat:downloadURL</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge11" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge11"><a xlink:href="http://purl.org/dc/elements/1.1/license" xlink:title="dc11:license">
+<path fill="none" stroke="#000000" d="M614.57,-89.105C628.3567,-78.8067 639.6067,-65.6067 629.46,-54 614.5628,-36.9595 469.5499,-25.1067 399.7009,-20.3388"/>
+<polygon fill="#000000" stroke="#000000" points="399.7772,-16.8362 389.5658,-19.6608 399.3099,-23.8205 399.7772,-16.8362"/>
+</a>
+</g>
+<g id="a_edge11-label"><a xlink:href="http://purl.org/dc/elements/1.1/license" xlink:title="dc11:license">
+<text text-anchor="middle" x="668.4474" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc11:license</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge12" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge12"><a xlink:href="http://www.w3.org/ns/dcat#accessURL" xlink:title="dcat:accessURL">
+<path fill="none" stroke="#000000" d="M673.573,-93.9358C703.3261,-85.9703 724.9605,-73.4217 707.46,-54 687.1398,-31.4492 484.818,-22.0891 399.7898,-19.1303"/>
+<polygon fill="#000000" stroke="#000000" points="399.6591,-15.624 389.5469,-18.7852 399.4234,-22.62 399.6591,-15.624"/>
+</a>
+</g>
+<g id="a_edge12-label"><a xlink:href="http://www.w3.org/ns/dcat#accessURL" xlink:title="dcat:accessURL">
+<text text-anchor="middle" x="759.9369" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dcat:accessURL</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N4 -->
+<g id="edge6" class="edge">
+<title>N0-&gt;N4</title>
+<g id="a_edge6"><a xlink:href="http://purl.org/dc/elements/1.1/description" xlink:title="dc11:description">
+<path fill="none" stroke="#000000" d="M689.4678,-96.6221C737.5664,-90.6299 788.4813,-82.0082 809.46,-70.8 821.352,-64.4465 831.9182,-54.0798 840.1662,-44.207"/>
+<polygon fill="#000000" stroke="#000000" points="843.0904,-46.1508 846.5274,-36.129 837.5909,-41.8201 843.0904,-46.1508"/>
+</a>
+</g>
+<g id="a_edge6-label"><a xlink:href="http://purl.org/dc/elements/1.1/description" xlink:title="dc11:description">
+<text text-anchor="middle" x="878.1157" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc11:description</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N5 -->
+<g id="edge1" class="edge">
+<title>N0-&gt;N5</title>
+<g id="a_edge1"><a xlink:href="http://purl.org/dc/terms/modified" xlink:title="dc:modified">
+<path fill="none" stroke="#000000" d="M700.2468,-99.3727C792.3071,-92.6898 908.8192,-82.1927 928.46,-70.8 938.8567,-64.7694 947.1763,-54.6281 953.3491,-44.836"/>
+<polygon fill="#000000" stroke="#000000" points="956.4417,-46.4794 958.4124,-36.0694 950.3801,-42.9784 956.4417,-46.4794"/>
+</a>
+</g>
+<g id="a_edge1-label"><a xlink:href="http://purl.org/dc/terms/modified" xlink:title="dc:modified">
+<text text-anchor="middle" x="981.2861" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc:modified</text>
+</a>
+</g>
+</g>
+<!-- N3 -->
+<g id="node5" class="node">
+<title>N3</title>
+<g id="a_node5"><a xlink:href="http://www.w3.org/ns/dcat#Distribution" xlink:title="dcat:Distribution">
+<ellipse fill="none" stroke="#000000" cx="1101.46" cy="-18" rx="76.4594" ry="18"/>
+<text text-anchor="middle" x="1101.46" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dcat:Distribution</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N3 -->
+<g id="edge7" class="edge">
+<title>N0-&gt;N3</title>
+<g id="a_edge7"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M708.7166,-103.207C816.5884,-98.8666 963.9391,-89.6514 1019.46,-70.8 1038.4917,-64.338 1057.5043,-52.5165 1072.4236,-41.6951"/>
+<polygon fill="#000000" stroke="#000000" points="1074.8023,-44.2861 1080.704,-35.4872 1070.6033,-38.6853 1074.8023,-44.2861"/>
+</a>
+</g>
+<g id="a_edge7-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="1056.5673" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N2 -->
+<g id="node6" class="node">
+<title>N2</title>
+<g id="a_node6"><a xlink:href="http://www.w3.org/ns/dcat#Distribution" xlink:title="mr you ">
+<polygon fill="#ffff00" stroke="#ffff00" points="1255.0128,-36 1195.9071,-36 1195.9071,0 1255.0128,0 1255.0128,-36"/>
+<text text-anchor="middle" x="1225.46" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">mr you </text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N2 -->
+<g id="edge9" class="edge">
+<title>N0-&gt;N2</title>
+<g id="a_edge9"><a xlink:href="http://purl.org/dc/terms/title" xlink:title="dc:title">
+<path fill="none" stroke="#000000" d="M703.6,-100.5856C822.5291,-93.8886 996.8953,-82.5945 1063.46,-70.8 1119.4011,-60.8879 1133.1715,-55.6976 1186.46,-36 1186.5561,-35.9644 1186.6524,-35.9288 1186.7488,-35.8929"/>
+<polygon fill="#000000" stroke="#000000" points="1187.8702,-39.2141 1195.8521,-32.2471 1185.2676,-32.7159 1187.8702,-39.2141"/>
+</a>
+</g>
+<g id="a_edge9-label"><a xlink:href="http://purl.org/dc/terms/title" xlink:title="dc:title">
+<text text-anchor="middle" x="1152.9011" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">dc:title</text>
+</a>
+</g>
+</g>
+</g>
+</svg>

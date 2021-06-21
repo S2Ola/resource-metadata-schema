@@ -1,0 +1,275 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1403pt" height="222pt" viewBox="0.00 0.00 1403.27 221.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 217.6)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-217.6 1399.2712,-217.6 1399.2712,4 -4,4"/>
+<!-- N5 -->
+<g id="node1" class="node">
+<title>N5</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="520.2508,-36 466.2508,-36 466.2508,0 520.2508,0 520.2508,-36"/>
+</g>
+<!-- N6 -->
+<g id="node2" class="node">
+<title>N6</title>
+<g id="a_node2"><a xlink:href="dct:spatial" xlink:title="&lt;dct:spatial&gt;">
+<ellipse fill="none" stroke="#000000" cx="619.2508" cy="-18" rx="61.7375" ry="18"/>
+<text text-anchor="middle" x="619.2508" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;dct:spatial&gt;</text>
+</a>
+</g>
+</g>
+<!-- N9 -->
+<g id="node3" class="node">
+<title>N9</title>
+<g id="a_node3"><a xlink:href="dct:spatial" xlink:title="A website that collects information of rare diseases">
+<polygon fill="#ffff00" stroke="#ffff00" points="302.2528,-124.8 .2488,-124.8 .2488,-88.8 302.2528,-88.8 302.2528,-124.8"/>
+<text text-anchor="middle" x="151.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">A website that collects information of rare diseases</text>
+</a>
+</g>
+</g>
+<!-- N11 -->
+<g id="node4" class="node">
+<title>N11</title>
+<g id="a_node4"><a xlink:href="dct:spatial" xlink:title="Organisation for rare disease ">
+<polygon fill="#ffff00" stroke="#ffff00" points="501.5589,-124.8 320.9427,-124.8 320.9427,-88.8 501.5589,-88.8 501.5589,-124.8"/>
+<text text-anchor="middle" x="411.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">Organisation for rare disease </text>
+</a>
+</g>
+</g>
+<!-- N1 -->
+<g id="node5" class="node">
+<title>N1</title>
+<g id="a_node5"><a xlink:href="dct:spatial" xlink:title="international , Europe ">
+<polygon fill="#ffff00" stroke="#ffff00" points="839.9361,-36 698.5655,-36 698.5655,0 839.9361,0 839.9361,-36"/>
+<text text-anchor="middle" x="769.2508" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">international , Europe </text>
+</a>
+</g>
+</g>
+<!-- N12 -->
+<g id="node6" class="node">
+<title>N12</title>
+<g id="a_node6"><a xlink:href="http://xmlns.com/foaf/0.1/Agent" xlink:title="foaf:Agent">
+<ellipse fill="none" stroke="#000000" cx="572.2508" cy="-106.8" rx="52.7276" ry="18"/>
+<text text-anchor="middle" x="572.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">foaf:Agent</text>
+</a>
+</g>
+</g>
+<!-- N2 -->
+<g id="node7" class="node">
+<title>N2</title>
+<g id="a_node7"><a xlink:href="http://xmlns.com/foaf/0.1/Agent" xlink:title=" EU">
+<polygon fill="#ffff00" stroke="#ffff00" points="919.2508,-36 865.2508,-36 865.2508,0 919.2508,0 919.2508,-36"/>
+<text text-anchor="middle" x="892.2508" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> EU</text>
+</a>
+</g>
+</g>
+<!-- N0 -->
+<g id="node8" class="node">
+<title>N0</title>
+<g id="a_node8"><a xlink:href="http://purl.org/ejp-rd/vocabulary/Location" xlink:title="&lt;http://purl.org/ejp-rd/vocabulary/Location&gt;">
+<ellipse fill="none" stroke="#000000" cx="827.2508" cy="-106.8" rx="184.3577" ry="18"/>
+<text text-anchor="middle" x="827.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;http://purl.org/ejp-rd/vocabulary/Location&gt;</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N5 -->
+<g id="edge8" class="edge">
+<title>N0-&gt;N5</title>
+<g id="a_edge8"><a xlink:href="http://schema.org/streetAddress" xlink:title="schema:streetAddress">
+<path fill="none" stroke="#000000" d="M703.1601,-93.4885C653.3518,-87.1688 602.3117,-79.1733 579.1946,-70.8 560.0234,-63.8559 540.512,-52.3057 524.936,-41.7759"/>
+<polygon fill="#000000" stroke="#000000" points="526.9249,-38.8959 516.7147,-36.0668 522.9321,-44.6455 526.9249,-38.8959"/>
+</a>
+</g>
+<g id="a_edge8-label"><a xlink:href="http://schema.org/streetAddress" xlink:title="schema:streetAddress">
+<text text-anchor="middle" x="640.2789" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">schema:streetAddress</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N6 -->
+<g id="edge7" class="edge">
+<title>N0-&gt;N6</title>
+<g id="a_edge7"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M785.6588,-89.0434C750.2894,-73.9434 699.6381,-52.3192 663.5233,-36.9009"/>
+<polygon fill="#000000" stroke="#000000" points="664.7822,-33.6328 654.211,-32.9253 662.0337,-40.0707 664.7822,-33.6328"/>
+</a>
+</g>
+<g id="a_edge7-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="745.3581" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge12" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge12"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C45674" xlink:title="ns1:NCIT_C45674">
+<path fill="none" stroke="#000000" d="M781.2493,-89.2171C773.9264,-84.3665 767.3243,-78.3074 762.9226,-70.8 758.6069,-63.4393 758.2321,-54.5115 759.5153,-46.1075"/>
+<polygon fill="#000000" stroke="#000000" points="762.9508,-46.7834 761.7492,-36.2569 756.1241,-45.2352 762.9508,-46.7834"/>
+</a>
+</g>
+<g id="a_edge12-label"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C45674" xlink:title="ns1:NCIT_C45674">
+<text text-anchor="middle" x="816.9149" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns1:NCIT_C45674</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N2 -->
+<g id="edge11" class="edge">
+<title>N0-&gt;N2</title>
+<g id="a_edge11"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C76349" xlink:title="ns1:NCIT_C76349">
+<path fill="none" stroke="#000000" d="M852.8367,-88.8056C859.1087,-83.5281 865.4043,-77.3877 870.2508,-70.8 875.7495,-63.3259 880.165,-54.2739 883.5555,-45.7914"/>
+<polygon fill="#000000" stroke="#000000" points="886.9071,-46.8177 887.0684,-36.2241 880.3361,-44.4049 886.9071,-46.8177"/>
+</a>
+</g>
+<g id="a_edge11-label"><a xlink:href="http://purl.obolibrary.org/obo/NCIT_C76349" xlink:title="ns1:NCIT_C76349">
+<text text-anchor="middle" x="933.9149" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns1:NCIT_C76349</text>
+</a>
+</g>
+</g>
+<!-- N4 -->
+<g id="node10" class="node">
+<title>N4</title>
+<g id="a_node10"><a xlink:href="http://purl.org/ejp-rd/vocabulary/Location" xlink:title="Brussels">
+<polygon fill="#ffff00" stroke="#ffff00" points="1054.1885,-36 990.3131,-36 990.3131,0 1054.1885,0 1054.1885,-36"/>
+<text text-anchor="middle" x="1022.2508" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Brussels</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N4 -->
+<g id="edge9" class="edge">
+<title>N0-&gt;N4</title>
+<g id="a_edge9"><a xlink:href="http://semanticscience.org/resource/SIO_000665" xlink:title="ns0:SIO_000665">
+<path fill="none" stroke="#000000" d="M926.9642,-91.646C954.573,-85.9899 980.0462,-78.935 991.2508,-70.8 1000.0891,-64.383 1006.8265,-54.6113 1011.7258,-45.2116"/>
+<polygon fill="#000000" stroke="#000000" points="1014.9345,-46.6128 1016.022,-36.0739 1008.5997,-43.6344 1014.9345,-46.6128"/>
+</a>
+</g>
+<g id="a_edge9-label"><a xlink:href="http://semanticscience.org/resource/SIO_000665" xlink:title="ns0:SIO_000665">
+<text text-anchor="middle" x="1053.6933" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000665</text>
+</a>
+</g>
+</g>
+<!-- N3 -->
+<g id="node11" class="node">
+<title>N3</title>
+<g id="a_node11"><a xlink:href="http://purl.org/ejp-rd/vocabulary/Location" xlink:title="Germany">
+<polygon fill="#ffff00" stroke="#ffff00" points="1174.3379,-36 1106.1637,-36 1106.1637,0 1174.3379,0 1174.3379,-36"/>
+<text text-anchor="middle" x="1140.2508" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Germany</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N3 -->
+<g id="edge10" class="edge">
+<title>N0-&gt;N3</title>
+<g id="a_edge10"><a xlink:href="http://semanticscience.org/resource/SIO_000664" xlink:title="ns0:SIO_000664">
+<path fill="none" stroke="#000000" d="M961.3845,-94.4429C1026.0252,-87.5775 1092.3679,-78.825 1105.2508,-70.8 1115.013,-64.719 1122.64,-54.7951 1128.2473,-45.1827"/>
+<polygon fill="#000000" stroke="#000000" points="1131.4187,-46.6728 1133.0083,-36.1979 1125.2334,-43.3952 1131.4187,-46.6728"/>
+</a>
+</g>
+<g id="a_edge10-label"><a xlink:href="http://semanticscience.org/resource/SIO_000664" xlink:title="ns0:SIO_000664">
+<text text-anchor="middle" x="1170.6933" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000664</text>
+</a>
+</g>
+</g>
+<!-- N8 -->
+<g id="node9" class="node">
+<title>N8</title>
+<g id="a_node9"><a xlink:href="http://purl.org/ejp-rd/vocabulary/Location" xlink:title="www.rarediseases.org">
+<polygon fill="#ffff00" stroke="#ffff00" points="1168.8504,-124.8 1029.6512,-124.8 1029.6512,-88.8 1168.8504,-88.8 1168.8504,-124.8"/>
+<text text-anchor="middle" x="1099.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">www.rarediseases.org</text>
+</a>
+</g>
+</g>
+<!-- N10 -->
+<g id="node12" class="node">
+<title>N10</title>
+<g id="a_node12"><a xlink:href="http://purl.org/ejp-rd/vocabulary/Location" xlink:title="European Union on Rare Diseases">
+<polygon fill="#ffff00" stroke="#ffff00" points="1395.2916,-124.8 1187.21,-124.8 1187.21,-88.8 1395.2916,-88.8 1395.2916,-124.8"/>
+<text text-anchor="middle" x="1291.2508" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">European Union on Rare Diseases</text>
+</a>
+</g>
+</g>
+<!-- N7 -->
+<g id="node13" class="node">
+<title>N7</title>
+<g id="a_node13"><a xlink:href="http://example.org/ORG_0190" xlink:title="&lt;http://example.org/ORG_0190&gt;">
+<ellipse fill="none" stroke="#000000" cx="699.2508" cy="-195.6" rx="140.4217" ry="18"/>
+<text text-anchor="middle" x="699.2508" y="-191.4" font-family="Times,serif" font-size="14.00" fill="#000000">&lt;http://example.org/ORG_0190&gt;</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N9 -->
+<g id="edge4" class="edge">
+<title>N7-&gt;N9</title>
+<g id="a_edge4"><a xlink:href="http://semanticscience.org/resource/SIO_000136" xlink:title="ns0:SIO_000136">
+<path fill="none" stroke="#000000" d="M583.6688,-185.3464C524.1984,-179.3119 450.666,-170.6752 385.3658,-159.6 333.9992,-150.888 276.9568,-138.0896 232.0384,-127.2753"/>
+<polygon fill="#000000" stroke="#000000" points="232.6056,-123.8115 222.0626,-124.8583 230.9572,-130.6147 232.6056,-123.8115"/>
+</a>
+</g>
+<g id="a_edge4-label"><a xlink:href="http://semanticscience.org/resource/SIO_000136" xlink:title="ns0:SIO_000136">
+<text text-anchor="middle" x="433.6933" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000136</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N11 -->
+<g id="edge2" class="edge">
+<title>N7-&gt;N11</title>
+<g id="a_edge2"><a xlink:href="http://semanticscience.org/resource/SIO_000185" xlink:title="ns0:SIO_000185">
+<path fill="none" stroke="#000000" d="M612.066,-181.4111C584.3245,-175.8466 553.7429,-168.6017 526.3658,-159.6 501.8031,-151.5236 475.5157,-139.7256 454.2713,-129.3293"/>
+<polygon fill="#000000" stroke="#000000" points="455.7065,-126.1343 445.1931,-124.8227 452.5938,-132.4042 455.7065,-126.1343"/>
+</a>
+</g>
+<g id="a_edge2-label"><a xlink:href="http://semanticscience.org/resource/SIO_000185" xlink:title="ns0:SIO_000185">
+<text text-anchor="middle" x="574.6933" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000185</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N12 -->
+<g id="edge1" class="edge">
+<title>N7-&gt;N12</title>
+<g id="a_edge1"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M673.8557,-177.8434C653.6621,-163.7238 625.3102,-143.8998 603.6851,-128.7793"/>
+<polygon fill="#000000" stroke="#000000" points="605.6647,-125.8927 595.4638,-123.0308 601.6535,-131.6295 605.6647,-125.8927"/>
+</a>
+</g>
+<g id="a_edge1-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="650.3581" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N0 -->
+<g id="edge6" class="edge">
+<title>N7-&gt;N0</title>
+<g id="a_edge6"><a xlink:href="http://purl.org/dc/terms/spatial" xlink:title="dc:spatial">
+<path fill="none" stroke="#000000" d="M724.8459,-177.8434C744.3389,-164.3201 771.3748,-145.564 792.7725,-130.7193"/>
+<polygon fill="#000000" stroke="#000000" points="795.04,-133.4061 801.2613,-124.8302 791.0499,-127.6546 795.04,-133.4061"/>
+</a>
+</g>
+<g id="a_edge6-label"><a xlink:href="http://purl.org/dc/terms/spatial" xlink:title="dc:spatial">
+<text text-anchor="middle" x="802.0762" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">dc:spatial</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N8 -->
+<g id="edge5" class="edge">
+<title>N7-&gt;N8</title>
+<g id="a_edge5"><a xlink:href="http://xmlns.com/foaf/0.1/homepage" xlink:title="foaf:homepage">
+<path fill="none" stroke="#000000" d="M770.3621,-180.0638C833.2061,-166.2999 927.632,-145.5364 1019.705,-124.9155"/>
+<polygon fill="#000000" stroke="#000000" points="1020.4774,-128.3293 1029.4699,-122.7271 1018.9465,-121.4987 1020.4774,-128.3293"/>
+</a>
+</g>
+<g id="a_edge5-label"><a xlink:href="http://xmlns.com/foaf/0.1/homepage" xlink:title="foaf:homepage">
+<text text-anchor="middle" x="974.2312" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">foaf:homepage</text>
+</a>
+</g>
+</g>
+<!-- N7&#45;&gt;N10 -->
+<g id="edge3" class="edge">
+<title>N7-&gt;N10</title>
+<g id="a_edge3"><a xlink:href="http://semanticscience.org/resource/SIO_000116" xlink:title="ns0:SIO_000116">
+<path fill="none" stroke="#000000" d="M813.1942,-185.0817C874.6795,-178.8373 951.7929,-170.0902 1020.2508,-159.6 1079.6737,-150.4943 1145.916,-137.6379 1198.0338,-126.8913"/>
+<polygon fill="#000000" stroke="#000000" points="1198.847,-130.2973 1207.929,-124.8414 1197.4269,-123.4428 1198.847,-130.2973"/>
+</a>
+</g>
+<g id="a_edge3-label"><a xlink:href="http://semanticscience.org/resource/SIO_000116" xlink:title="ns0:SIO_000116">
+<text text-anchor="middle" x="1165.6933" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">ns0:SIO_000116</text>
+</a>
+</g>
+</g>
+</g>
+</svg>
